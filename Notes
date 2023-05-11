@@ -1,0 +1,13 @@
+JAI SHRI RAM
+
+If a repo is already present, you first fork it and then pull into the local machine
+Once this is done, it will also include git and etc.
+Then, you push commits to the branch 
+Lastly, you merged the forked copy with the main source repo by pull request 
+
+PULLING: git clone <url>
+PUSHIGN: git push --set-upstream https://github.com/nirnayreddy3/Library_Software.git master
+
+GITLOG MESSAGE 
+git config --global user.name "Nirnay Reddy"
+git config --global user.email "nirnayreddy@yahoo.com"
