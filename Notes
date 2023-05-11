@@ -1,4 +1,4 @@
-JAI SHRI RAM
+
 
 If a repo is already present, you first fork it and then pull into the local machine
 Once this is done, it will also include git and etc.
@@ -11,3 +11,4 @@ PUSHIGN: git push --set-upstream https://github.com/nirnayreddy3/Library_Softwar
 GITLOG MESSAGE 
 git config --global user.name "Nirnay Reddy"
 git config --global user.email "nirnayreddy@yahoo.com"
+
