@@ -12,3 +12,16 @@ GITLOG MESSAGE
 git config --global user.name "Nirnay Reddy"
 git config --global user.email "nirnayreddy@yahoo.com"
 
+
+THINGS to get done 
+FLASK basics nerchuko
+Python core nerchuko
+PyMongo nerchuko
+
+
+
+shelf_number=input("enter the book shelf number");
+book_type= 'PHYSICS'
+phy_shelf_numbers={1,2,3,4,5}
+if shelf_number in phy_shelf_numbers
+book
