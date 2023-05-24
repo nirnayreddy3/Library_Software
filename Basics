@@ -1,0 +1,15 @@
+Commands
+For every project its best to create a separate python environment.
+This is called venv in python.
+python3 -m venv apples
+
+
+. apples/bin/activate
+
+pip freeze
+environment entities 
+
+pip is a package manager in python pook
+
+libraries
+pypi

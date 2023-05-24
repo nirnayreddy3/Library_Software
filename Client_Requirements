@@ -1,0 +1,5 @@
+Requirements: 
+1. User Registration. Hierarchy: Librarian and students.
+2. Book, books- book tags - (Could be anything such as row, column, topic, etc). 
+   Need to maintain two states, lended or not lended, number of copies left. 
+   Returned or not. If lended to whom.
